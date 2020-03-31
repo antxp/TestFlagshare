@@ -1,0 +1,8 @@
+analytics.track('ThreatProtection', {
+  category: 'Provider Dashboard',
+  provider_name: '',
+  apiName: '',
+  apiId: '', 
+  api_link: '', 
+  source: 'Related'
+});
